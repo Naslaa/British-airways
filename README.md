@@ -64,6 +64,7 @@ Launch Jupyter and open the analysis:
 | Food Quality         | 15%                 | 
 
 ###  Sentiment Distribution
+![Distribution of Sentiments](sentiment.png)
 
 | Sentiment Category  | Percentage | 
 |---------------------|-----------:|
@@ -79,6 +80,9 @@ Launch Jupyter and open the analysis:
 ## Random Forest Feature Importance Results
 
 ### Feature Importance Analysis
+
+![Feature Importance](feature_importance.png)
+
 
 ###  Key Observations
 
