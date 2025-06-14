@@ -2,13 +2,13 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes customer reviews of **British Airways**, scraped from Skytrax (airlinequality.com). Using natural language processing and data visualization techniques, it provides insights into customer satisfaction, complaint trends, and the overall sentiment toward the airline’s services.
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 |- BA_reviews.csv                                 # Raw scraped review data
 |- British_airways_reviews_analysis.ipynb         # Jupyter notebook with full analysis
@@ -17,13 +17,13 @@ This project analyzes customer reviews of **British Airways**, scraped from Skyt
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- 🕸️ **Web Scraping**: Collected 1,000+ authentic customer reviews using BeautifulSoup.
-- 🧠 **Sentiment Analysis**: Identified positive, negative, and neutral sentiments in reviews using TextBlob.
-- 📋 **Complaint Categorization**: Extracted and grouped recurring complaints: service, flight delays, food, comfort, etc.
-- 📈 **Trend Analysis**: Evaluated average ratings over time to spot service quality trends.
-- 🌟 **Feature Importance**: Ranked the most influential factors on customer satisfaction.
+-  **Web Scraping**: Collected 1,000+ authentic customer reviews using BeautifulSoup.
+-  **Sentiment Analysis**: Identified positive, negative, and neutral sentiments in reviews using TextBlob.
+-  **Complaint Categorization**: Extracted and grouped recurring complaints: service, flight delays, food, comfort, etc.
+-  **Trend Analysis**: Evaluated average ratings over time to spot service quality trends.
+-  **Feature Importance**: Ranked the most influential factors on customer satisfaction.
 
 ---
 
@@ -52,9 +52,9 @@ textblob
 Launch Jupyter and open the analysis:
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
-### 🔍 Top Complaint Areas
+###  Top Complaint Areas
 
 | Complaint Type       | Share of Complaints | Icon |
 |----------------------|--------------------:|------|
@@ -65,13 +65,13 @@ Launch Jupyter and open the analysis:
 
 ### 😊 Sentiment Distribution
 
-| Sentiment Category  | Percentage | Visual |
-|---------------------|-----------:|--------|
-| Very Negative       | 0.50%      | 😠     |
-| Negative            | 15.15%     | 🔴     |
-| Neutral             | 46.10%     | ⚪     |
-| Positive            | 36.60%     | 🟢     |
-| Very Positive       | 1.65%      | 😄     |
+| Sentiment Category  | Percentage | 
+|---------------------|-----------:|
+| Very Negative       | 0.50%      | 
+| Negative            | 15.15%     | 
+| Neutral             | 46.10%     | 
+| Positive            | 36.60%     | 
+| Very Positive       | 1.65%      | 
 
 
 
