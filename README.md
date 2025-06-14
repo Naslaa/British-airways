@@ -56,14 +56,14 @@ Launch Jupyter and open the analysis:
 
 ###  Top Complaint Areas
 
-| Complaint Type       | Share of Complaints | Icon |
-|----------------------|--------------------:|------|
-| Staff Service        | 31%                 | 👨‍✈️ |
-| Flight Operations    | 28%                 | ✈️  |
-| Cabin Comfort        | 20%                 | 💺 |
-| Food Quality         | 15%                 | 🍽️ |
+| Complaint Type       | Share of Complaints |
+|----------------------|--------------------:|
+| Staff Service        | 31%                 |
+| Flight Operations    | 28%                 | 
+| Cabin Comfort        | 20%                 | 
+| Food Quality         | 15%                 | 
 
-### 😊 Sentiment Distribution
+###  Sentiment Distribution
 
 | Sentiment Category  | Percentage | 
 |---------------------|-----------:|
